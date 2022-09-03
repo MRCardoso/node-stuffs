@@ -21,7 +21,7 @@ $ node interview.js 1000
 
 Now, try keep the number os pool operations equal the number of threads
 
-_"with great power comes great responsibility"_
+_"with great power comes great responsibility🔥🔥🔥"_
 
 ```
 $ node interview.js 10 10
