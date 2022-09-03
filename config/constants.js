@@ -1,3 +1,4 @@
 module.exports = {
-    URL: 'https://megrolang.com.br'
+    URL: 'https://megrolang.com.br',
+    PORT: 3000
 }

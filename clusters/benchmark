@@ -1,0 +1,2 @@
+#!/bin/bash
+docker-compose run -t --rm ab ab -c 50 -n 500 host.docker.internal:3000/fast 
